@@ -17,11 +17,12 @@
 - 💜 Interests: philosophy, travel, art, internet culture, **nature and its preservation** ...
 - ⚡ Fun facts:
   - I am a true science lover <img align="center" width="25px" src="https://img.icons8.com/external-victoruler-linear-colour-victoruler/64/000000/external-science-education-and-school-victoruler-linear-colour-victoruler.png"/>
-  - I am a 🔭🛰🌌Space Enthusiast 🌠☄
+  - I am a 🌌Space Enthusiast 🛰☄
   - <img align="center" width="20px" height="20px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/house.png" /> Hogwarts House: **Slytherin** <img align="center" width="20px" height="20px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/Slytherin_ClearBG.png">
 - 📫 Find me at: <img align="center" width="40px" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' >
   - <img align="center" width="25px" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>[@ortizmonick](https://twitter.com/ortizmonick)
   - <img align="center" width="25" src="https://img.icons8.com/color/48/000000/linkedin.png"/>[Monica Ortiz](https://www.linkedin.com/in/m%C3%B3nica-ortiz-%C3%A1lvarez/)
+
 ---
 
 ### Languages and Tools <img align="center" width="25px" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" >

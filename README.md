@@ -1,9 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oregano&color=%23BB25FF&size=30&lines=Hi%2C+I'm+Monica+Ortiz...+;%3CFront-End+Developer+%2F%3E;Nice+to+meet+you!+)](https://git.io/typing-svg)
 
+<!-- Greeting -->
 ### Welcome you to my GitHub profile! <img width="30px" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" >&nbsp;
 
 <img align="right" width="480" alt="code-gif" src="https://github.com/monicajoa/monicajoa/blob/main/img3.gif?raw=true">
 
+
+<!--Introduction -->
 ### About me ...
 
 - 🔭 I’m currently studying FullStack Web Development specialization at Holberton School.
@@ -19,9 +22,7 @@
 - 📫 Find me at: <img align="center" width="40px" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' >
   - <img align="center" width="25px" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>[@ortizmonick](https://twitter.com/ortizmonick)
   - <img align="center" width="25" src="https://img.icons8.com/color/48/000000/linkedin.png"/>[Monica Ortiz](https://www.linkedin.com/in/m%C3%B3nica-ortiz-%C3%A1lvarez/)
-
-<!--Trap--:)-->
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+---
 
 ### Languages and Tools <img align="center" width="25px" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" >
 
@@ -43,8 +44,7 @@
 <code><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/></code>
 
-<!--Trap--:)-->
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+---
 
 ### Stats
 

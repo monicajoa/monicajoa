@@ -40,11 +40,13 @@ Welcome you to my GitHub profile! <img width="30px" src="https://media.giphy.com
 <code><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/></code>
 
+**Stats**
 
 <p align="center">
-<a href="https://github.com/monicajoa/github-readme-stats">
-  <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api?username=monicajoa&show_icons=true&theme=material-palenight&include_all_commits=true" />
-    <img height="180em" width="303em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicajoa&layout=compact&theme=material-palenight" />
+<a href="https://github.com/monicajoa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=monicajoa&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=monicajoa&layout=compact&langs_count=8&theme=material-palenight"/>
 </a>
 </p>
+
 

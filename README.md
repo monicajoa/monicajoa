@@ -24,11 +24,13 @@ Welcome you to my GitHub profile! <img width="30px" src="https://media.giphy.com
 
 <code><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/css3.png"/></code>
+<code><img src="https://img.icons8.com/fluency/48/000000/figma.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/typescript.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/react-native.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/sass.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></code>
+<br />
 <code><img src="https://img.icons8.com/fluency/48/000000/node-js.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></code>
 <code><img src="https://img.icons8.com/plasticine/48/000000/bash.png"/></code>

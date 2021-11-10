@@ -4,7 +4,7 @@ Welcome you to my GitHub profile! <img width="30px" src="https://media.giphy.com
 
 <img align="right" width="480" alt="code-gif" src="https://github.com/monicajoa/monicajoa/blob/main/img3.gif?raw=true">
 
-**About me ...**
+### About me ...
 
 - 🔭 I’m currently studying FullStack Web Development specialization at Holberton School.
 - 🌱 I’m currently learning ReactJS & NodeJS ...
@@ -20,7 +20,10 @@ Welcome you to my GitHub profile! <img width="30px" src="https://media.giphy.com
   - <img align="center" width="25px" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>[@ortizmonick](https://twitter.com/ortizmonick)
   - <img align="center" width="25" src="https://img.icons8.com/color/48/000000/linkedin.png"/>[Monica Ortiz](https://www.linkedin.com/in/m%C3%B3nica-ortiz-%C3%A1lvarez/)
 
-**Languages and Tools** <img align="center" width="25px" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" >
+<!--Trap--:)-->
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+### Languages and Tools <img align="center" width="25px" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" >
 
 <code><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/css3.png"/></code>
@@ -40,7 +43,10 @@ Welcome you to my GitHub profile! <img width="30px" src="https://media.giphy.com
 <code><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/></code>
 
-**Stats**
+<!--Trap--:)-->
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+### Stats
 
 <p align="center">
 <a href="https://github.com/monicajoa">

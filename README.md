@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oregano&color=%23BB25FF&size=30&lines=Hi%2C+I'm+Monica+Ortiz...+;%3CFront-End+Developer+%2F%3E;Nice+to+meet+you!+)](https://git.io/typing-svg)
 
-Welcome you to my GitHub profile! <img width="30px" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" >&nbsp;
+### Welcome you to my GitHub profile! <img width="30px" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" >&nbsp;
 
 <img align="right" width="480" alt="code-gif" src="https://github.com/monicajoa/monicajoa/blob/main/img3.gif?raw=true">
 
